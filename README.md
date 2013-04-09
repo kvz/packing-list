@@ -1,16 +1,16 @@
 packing-list
 ============
 
-An MIT Licensed Vacation &amp; Trip Packing List.
+It's in markdown (with Github checkbox syntax) and MIT licensed, 
+so it's easy to fork & personalise for your next conference trip.
 
 This list has evolved over many trips and works really well for city trips, 
 conference trips, and <10 day vacations.
 
-I'm open sourcing this so you can fork and enjoy superefficient packing and
-the peace of mind that comes with that, too : )
+I'm open sourcing this so you too can enjoy superefficient packing and
+the peace of mind that comes with that : )
 
-PS 
-Nothing beats printing this, and checking the items off with a pen : )
+PS, Nothing beats printing these items, and checking them off with a pen ; )
 
 ## The carry-on baggage contains
 
