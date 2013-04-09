@@ -12,16 +12,14 @@ the peace of mind that comes with that, too : )
 PS 
 Nothing beats printing this, and checking the items off with a pen : )
 
-
-## Packlist carry-on baggage
+## The carry-on baggage contains
 
 - [ ] Additional battery for phone
 - [ ] Bank identifier
 - [ ] Book
 - [ ] Chewing gum to pop ears
 - [ ] Coins to buy water after security check
-- [ ] Copy of pasport, alarm numbers.
-- [ ] Credit card
+- [ ] Copy of pasport, alarm numbers
 - [ ] Earplugs to defend against children
 - [ ] Foreign plug adapter
 - [ ] Granola bar
@@ -35,9 +33,9 @@ Nothing beats printing this, and checking the items off with a pen : )
 - [ ] Sunglasses
 - [ ] Tablet
 
-## Packlist suitcase
+## The suitcase contains
 
-- [ ] Belts
+- [ ] Belt
 - [ ] Ducktape
 - [ ] Flipflops
 - [ ] Gloves / Hat
@@ -56,7 +54,7 @@ Nothing beats printing this, and checking the items off with a pen : )
 - [ ] {num_days} / 3 Trousers
 - [ ] {num_days} / 7 Towels
 
-## Packlist toiletry
+## The toiletry bag contains
 
 Protip: keep a spare of everything inside a bag, just throw that in your suitcase.
 
@@ -74,24 +72,27 @@ Protip: keep a spare of everything inside a bag, just throw that in your suitcas
 - [ ] Transparent plastic bag for small liquids
 - [ ] Vitaminsuplements
 
-## Todo @ home
+## Todo at home
 
 - [ ] Check bank account balance
-- [ ] Check Insurance
+- [ ] Check insurance
 - [ ] Check public transportation issues on route
 - [ ] Check time difference
 - [ ] Check-in online, write down times & Terminal nr
-- [ ] Cleanup wallet
-- [ ] Clip nails
-- [ ] Enable ATMs in destination country
+- [ ] Cleanup wallet. Check if creditcard is in there and you know it's PIN code.
+- [ ] Clip nails, so you don't have to abroad
+- [ ] Enable ATM access in foreign country if needed
 - [ ] Find out what's a cheap way to have internet there
-- [ ] Get some foreign cash
 - [ ] Make a few Spotify playlists offline on phone
-- [ ] Shave
+- [ ] Shave, so you don't have to abroad
 - [ ] Take care of (E)Mail
-- [ ] Unplug chords
 - [ ] Water plants, arrange for pet babysitters
 - [ ] Way bags
+
+## When I leave
+
+- [ ] Get some foreign cash
+- [ ] Unplug chords
 
 ## Contributions
 
