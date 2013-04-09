@@ -19,14 +19,14 @@ Nothing beats printing this, and checking the items off with a pen : )
 - [ ] Book
 - [ ] Chewing gum to pop ears
 - [ ] Coins to buy water after security check
-- [ ] Copy of pasport, alarm numbers
+- [ ] Copy of passport, alarm numbers
 - [ ] Earplugs to defend against children
 - [ ] Foreign plug adapter
 - [ ] Granola bar
 - [ ] Headset
 - [ ] Laptop
 - [ ] Magazine
-- [ ] Pasport
+- [ ] Passport
 - [ ] Pen & Paper
 - [ ] Phone charger
 - [ ] Present for host
