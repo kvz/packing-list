@@ -98,7 +98,7 @@ If you miss anything, fork it. If you think others will miss it too, send a pull
 
 ## License
 
-Copyright (c) 2013 Kevin van Zonneveld, [http://kvz.io](http://kvz.io) \
+Copyright (c) 2013 Kevin van Zonneveld, [http://kvz.io](http://kvz.io)  
 Licensed under MIT: [http://kvz.io/licenses/LICENSE-MIT](http://kvz.io/licenses/LICENSE-MIT)
 
 Edit over at at https://github.com/kvz/packing-list/edit/master/README.md 
