@@ -1,5 +1,4 @@
-packing-list
-============
+# MIT Licensed Packing List for conference trips
 
 It's in markdown ([Github Task List flavored](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments))
 and [MIT Licensed](http://kvz.io/licenses/LICENSE-MIT), so it's easy to 
