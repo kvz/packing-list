@@ -4,14 +4,13 @@ packing-list
 It's in markdown ([Github Task List flavored](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments))
 and [MIT Licensed](http://kvz.io/licenses/LICENSE-MIT), so it's easy to 
 fork & personalise for your next conference trip.
+It list has evolved over many trips and is well suited for city trips, 
+conference trips, and <=10 day holidays.
 
-This list has evolved over many trips and works really well for city trips, 
-conference trips, and <10 day vacations.
-
-I'm open sourcing this so you too can enjoy superefficient packing and
+I'm open sourcing this so you too can enjoy efficient packing and
 the peace of mind that comes with that : )
 
-PS, Nothing beats printing these items, and checking them off with a pen ; )
+If you miss anything, fork it. If you think others will miss it too, send a pull request!
 
 ## The carry-on baggage contains
 
@@ -57,8 +56,6 @@ PS, Nothing beats printing these items, and checking them off with a pen ; )
 
 ## The toiletry bag contains
 
-Protip: keep a spare of everything inside a bag, just throw that in your suitcase.
-
 - [ ] Condoms (just for [party-tricks](http://lmgtfy.com/?q=youtube+condom+party+tricks) of course)
 - [ ] Deodorant 100ml
 - [ ] Earplugs
@@ -95,12 +92,15 @@ Protip: keep a spare of everything inside a bag, just throw that in your suitcas
 - [ ] Get some foreign cash
 - [ ] Unplug chords
 
-## Contributions
+## Tips
 
-Pull requests are welcome : )
+- Keep a spare of all toiletry items so you can just keep that bag in your suitcase.
+- Nothing beats printing and checking these with a pen ; )
 
 ## License
 
 Copyright (c) 2013 Kevin van Zonneveld, [http://kvz.io](http://kvz.io)
 
 Licensed under MIT: [http://kvz.io/licenses/LICENSE-MIT](http://kvz.io/licenses/LICENSE-MIT)
+
+Edit over at at https://github.com/kvz/packing-list/edit/master/README.md 
