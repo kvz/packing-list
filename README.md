@@ -22,7 +22,7 @@ For additional packing-speed, there's a section per bag
 - [ ] Bank identifier
 - [ ] Book
 - [ ] Chewing gum to pop ears
-- [ ] Coins to buy water after security check
+- [ ] Coins to buy {hours_flight}/3 .5l bottles of water after security check
 - [ ] Copy of passport, alarm numbers
 - [ ] Earplugs to defend against children
 - [ ] Foreign plug adapter
@@ -65,9 +65,9 @@ For additional packing-speed, there's a section per bag
 - [ ] Earplugs
 - [ ] Hairgel 100ml
 - [ ] Ibuprofen
-- [ ] Lipbalsem
+- [ ] Lip balm
 - [ ] Patchers / Iodine / Small scissor
-- [ ] Reni
+- [ ] Rennie
 - [ ] Showergel 100ml
 - [ ] Swabs
 - [ ] Toothbrush & paste
@@ -101,6 +101,7 @@ For additional packing-speed, there's a section per bag
 
 - Keep a spare of all toiletry items so you can just keep that bag in your suitcase.
 - Nothing beats printing and checking these with a pen ; )
+- Calculations are rounded up : )
 
 ## License
 
