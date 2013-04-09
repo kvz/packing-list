@@ -1,4 +1,4 @@
-# MIT Licensed Packing List
+# The Open Source Conference Packing List
 
 It's in 
 [Github Task List flavored](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments)
