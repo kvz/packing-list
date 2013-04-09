@@ -58,7 +58,7 @@ but it's nice to be sure I didn't miss anything.
 
 Protip: keep a spare of everything inside a bag, just throw that in your suitcase.
 
-- [ ] Condoms (they make great .. portable .. aquariums)
+- [ ] Condoms (just for [party-tricks](http://lmgtfy.com/?q=youtube+condom+party+tricks) of course)
 - [ ] Deodorant 100ml
 - [ ] Earplugs
 - [ ] Hairgel 100ml
