@@ -100,7 +100,8 @@ For additional packing-speed, there's a section per bag
 ## Tips
 
 - Keep a spare of all toiletry items so you can just keep that bag in your suitcase.
-- Nothing beats printing and checking these with a pen ; )
+- Nothing beats [printing](https://raw.github.com/kvz/packing-list/master/README.md) 
+and checking these with a pen ; )
 - Calculations are rounded up : )
 
 ## License
