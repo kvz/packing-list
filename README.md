@@ -1,7 +1,7 @@
 packing-list
 ============
 
-It's in markdown (with [Github Task List flavoring](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments))
+It's in markdown ([Github Task List flavored](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments))
 and [MIT Licensed](http://kvz.io/licenses/LICENSE-MIT), so it's easy to 
 fork & personalise for your next conference trip.
 
