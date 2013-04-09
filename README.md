@@ -3,12 +3,14 @@ packing-list
 
 An MIT Licensed Vacation &amp; Trip Packing List.
 
-I use this for <10 day trips. I improve it everytime I miss something abroad, so it evolves.
+This list has evolved over many trips and works really well for city trips, 
+conference trips, and <10 day vacations.
 
-Next trip, I print this out and just check items off with a pen.
+I'm open sourcing this so you can fork and enjoy superefficient packing and
+the peace of mind that comes with that, too : )
 
-Makes the process of packing pretty efficient. Some items don't always apply
-but it's nice to be sure I didn't miss anything.
+PS 
+Nothing beats printing this, and checking the items off with a pen : )
 
 
 ## Packlist carry-on baggage
