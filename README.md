@@ -6,12 +6,15 @@ markdown and
 [MIT Licensed](http://kvz.io/licenses/LICENSE-MIT), 
 so pretty easy to fork & personalise for your next trip.
 
-It list has evolved over the years and is also well suited for city trips and <=10 day holidays.
+It list has evolved over the years and is also suited for city trips and <=10 day holidays.
 
 I'm open sourcing this so you too can enjoy efficient packing and
 the peace of mind that comes with that : )
 
-If you miss anything, fork it. If you think others will miss it too, send a pull request!
+If you miss anything, fork it.  
+If you think others will miss it too, send a pull request!
+
+For additional packing-speed, there's a section per bag
 
 ## The carry-on
 
@@ -80,13 +83,14 @@ If you miss anything, fork it. If you think others will miss it too, send a pull
 - [ ] Check-in online, write down times & Terminal nr
 - [ ] Cleanup wallet. Check if creditcard is in there and you know it's PIN code.
 - [ ] Clip nails, so you don't have to abroad
+- [ ] Download some city "[off](http://www.offmaps.com/)-maps" if I'll have limited intertubes there
 - [ ] Enable ATM access in foreign country if needed
 - [ ] Find out what's a cheap way to have internet there
-- [ ] Make a few Spotify playlists offline on phone
+- [ ] Make a few Spotify offline playlists on the phone. Don't wanna use up all that country's bandwith.
 - [ ] Shave, so you don't have to abroad
-- [ ] Take care of (E)Mail
+- [ ] Take care of pending (E)Mails
 - [ ] Water plants, arrange for pet babysitters
-- [ ] Way bags
+- [ ] Weigh bags if in doubt. Make sure Carry-on still fits inside luggage when not checking in any.
 
 ## When I leave
 
