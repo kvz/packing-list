@@ -1,8 +1,9 @@
 packing-list
 ============
 
-It's in markdown (with Github checkbox syntax) and MIT licensed, 
-so it's easy to fork & personalise for your next conference trip.
+It's in markdown (with [Github Task List flavoring](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments))
+and [MIT Licensed](http://kvz.io/licenses/LICENSE-MIT), so it's easy to 
+fork & personalise for your next conference trip.
 
 This list has evolved over many trips and works really well for city trips, 
 conference trips, and <10 day vacations.
