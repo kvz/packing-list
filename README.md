@@ -12,7 +12,7 @@ the peace of mind that comes with that : )
 
 If you miss anything, fork it. If you think others will miss it too, send a pull request!
 
-## The carry-on baggage contains
+## The carry-on
 
 - [ ] Additional battery for phone
 - [ ] Bank identifier
@@ -33,7 +33,7 @@ If you miss anything, fork it. If you think others will miss it too, send a pull
 - [ ] Sunglasses
 - [ ] Tablet
 
-## The suitcase contains
+## The suitcase
 
 - [ ] Belt
 - [ ] Ducktape
@@ -54,7 +54,7 @@ If you miss anything, fork it. If you think others will miss it too, send a pull
 - [ ] {num_days} / 3 Trousers
 - [ ] {num_days} / 7 Towels
 
-## The toiletry bag contains
+## The toiletry bag
 
 - [ ] Condoms (just for [party-tricks](http://lmgtfy.com/?q=youtube+condom+party+tricks) of course)
 - [ ] Deodorant 100ml
@@ -70,7 +70,7 @@ If you miss anything, fork it. If you think others will miss it too, send a pull
 - [ ] Transparent plastic bag for small liquids
 - [ ] Vitaminsuplements
 
-## Todo at home
+## Before I leave
 
 - [ ] Check bank account balance
 - [ ] Check insurance
