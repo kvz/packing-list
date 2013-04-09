@@ -22,11 +22,11 @@ For additional packing-speed, there's a section per bag
 - [ ] Bank identifier
 - [ ] Book
 - [ ] Chewing gum to pop ears
-- [ ] Coins to buy {hours_flight}/3 .5l bottles of water after security check
+- [ ] Coins to buy {hours_flight} / 3 .5l bottles of water after security check
 - [ ] Copy of passport, alarm numbers
 - [ ] Earplugs to defend against children
 - [ ] Foreign plug adapter
-- [ ] Granola bar
+- [ ] {hours_flight} / 2 Granola bar
 - [ ] Headset
 - [ ] Laptop
 - [ ] Magazine
@@ -108,4 +108,4 @@ For additional packing-speed, there's a section per bag
 Copyright (c) 2013 Kevin van Zonneveld, [http://kvz.io](http://kvz.io)  
 Licensed under MIT: [http://kvz.io/licenses/LICENSE-MIT](http://kvz.io/licenses/LICENSE-MIT)
 
-Edit over at at https://github.com/kvz/packing-list/edit/master/README.md 
+Edit over at at https://github.com/kvz/packing-list/
