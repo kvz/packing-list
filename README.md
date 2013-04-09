@@ -55,7 +55,7 @@ If you miss anything, fork it. If you think others will miss it too, send a pull
 
 ## The toiletry bag
 
-- [ ] Condoms (just for [party-tricks](http://lmgtfy.com/?q=youtube+condom+party+tricks) of course)
+- [ ] Condoms (just for party-tricks ofc)
 - [ ] Deodorant 100ml
 - [ ] Earplugs
 - [ ] Hairgel 100ml
