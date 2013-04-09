@@ -48,9 +48,9 @@ Nothing beats printing this, and checking the items off with a pen : )
 - [ ] Swimming shorts
 - [ ] Swiss knife with some tools
 - [ ] Umbrella
-- [ ] {num_days} * Boxershorts
-- [ ] {num_days} * Socks
-- [ ] {num_days} * T-Shirts
+- [ ] {num_days} * 1 Boxershorts
+- [ ] {num_days} * 1 Socks
+- [ ] {num_days} * 1 T-Shirts
 - [ ] {num_days} / 3 Shorts
 - [ ] {num_days} / 3 Sweaters
 - [ ] {num_days} / 3 Trousers
