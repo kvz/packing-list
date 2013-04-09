@@ -1,4 +1,4 @@
-# The Open Source Conference Packing List
+# The Open Source Packing List
 
 It's in 
 [Github Task List flavored](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments)
@@ -6,7 +6,7 @@ markdown and
 [MIT Licensed](http://kvz.io/licenses/LICENSE-MIT), 
 so pretty easy to fork & personalise for your next trip.
 
-It list has evolved over the years and is also suited for city trips and <=10 day holidays.
+It list has evolved over the years and is **suited for city trips, conferences and <=10 day holidays**.
 
 I'm open sourcing this so you too can enjoy efficient packing and
 the peace of mind that comes with that : )
