@@ -109,5 +109,5 @@ and checking these with a pen ; )
 Copyright (c) 2013 Kevin van Zonneveld, [http://kvz.io](http://kvz.io)  
 Licensed under MIT: [http://kvz.io/licenses/LICENSE-MIT](http://kvz.io/licenses/LICENSE-MIT)
 
-Edit over at at https://github.com/kvz/packing-list/
+Edit over at at https://github.com/kvz/packing-list/  
 Discuss over at https://news.ycombinator.com/item?id=5518382
