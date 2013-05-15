@@ -39,6 +39,7 @@ For additional packing-speed, there's a section per bag
 
 ## The suitcase
 
+- [ ] Beach towel
 - [ ] Belt
 - [ ] Ducktape
 - [ ] Flipflops
@@ -76,6 +77,7 @@ For additional packing-speed, there's a section per bag
 
 ## Before I leave
 
+- [ ] Charge additional phone battery
 - [ ] Check bank account balance
 - [ ] Check insurance
 - [ ] Check public transportation issues on route
