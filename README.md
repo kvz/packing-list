@@ -90,7 +90,7 @@ For additional packing-speed, there's a section per bag
 - [ ] Find out what's a cheap way to have internet there
 - [ ] Make a few Spotify offline playlists on the phone. Don't wanna use up all that country's bandwith.
 - [ ] Shave, so you don't have to abroad
-- [ ] Take care of pending (E)Mails
+- [ ] Take care of pending (E)Mails. Make sure collegues know what's what
 - [ ] Water plants, arrange for pet babysitters
 - [ ] Weigh bags if in doubt. Make sure Carry-on still fits inside luggage when not checking in any.
 
@@ -98,6 +98,7 @@ For additional packing-speed, there's a section per bag
 
 - [ ] Get some foreign cash
 - [ ] Unplug chords
+- [ ] Kill temperature
 
 ## Tips
 
