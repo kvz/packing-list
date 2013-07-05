@@ -82,15 +82,16 @@ For additional packing-speed, there's a section per bag
 - [ ] Check insurance
 - [ ] Check public transportation issues on route
 - [ ] Check time difference
-- [ ] Check-in online, write down times & Terminal nr
+- [ ] Check-in online, write down times & Terminal nr. Use http://seatguru.com to find the best seats for your flightnr.
 - [ ] Cleanup wallet. Check if creditcard is in there and you know it's PIN code.
 - [ ] Clip nails, so you don't have to abroad
 - [ ] Download some city "[off](http://www.offmaps.com/)-maps" if I'll have limited intertubes there
 - [ ] Enable ATM access in foreign country if needed
 - [ ] Find out what's a cheap way to have internet there
 - [ ] Make a few Spotify offline playlists on the phone. Don't wanna use up all that country's bandwith.
+- [ ] Notify neighbors that you'll be gone
 - [ ] Shave, so you don't have to abroad
-- [ ] Take care of pending (E)Mails. Make sure collegues know what's what
+- [ ] Take care of pending (E)Mails. Set vacation responder. Make sure collegues know what's what
 - [ ] Water plants, arrange for pet babysitters
 - [ ] Weigh bags if in doubt. Make sure Carry-on still fits inside luggage when not checking in any.
 
