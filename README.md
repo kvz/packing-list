@@ -46,6 +46,7 @@ For additional packing-speed, there's a section per bag
 - [ ] Gloves / Hat
 - [ ] Party-trousers
 - [ ] Plastic bag for loundry / to sit on wet stuff
+- [ ] SLR / Camera
 - [ ] Speakers
 - [ ] Sunscreen
 - [ ] Swimming shorts
