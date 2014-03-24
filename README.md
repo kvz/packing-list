@@ -81,7 +81,8 @@ For additional packing-speed, there's a section per bag
 - [ ] Charge additional phone battery
 - [ ] Check bank account balance
 - [ ] Check insurance
-- [ ] Check public transportation issues on route
+- [ ] Check public transportation (issues on) route
+- [ ] Check wether
 - [ ] Check time difference
 - [ ] Check-in online, write down times & Terminal nr. Use http://seatguru.com to find the best seats for your flightnr.
 - [ ] Cleanup wallet. Check if creditcard is in there and you know it's PIN code.
