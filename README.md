@@ -78,7 +78,7 @@ For additional packing-speed, there's a section per bag
 
 ## Before I leave
 
-- [ ] Charge additional phone battery
+- [ ] Charge additional phone battery / Kindle / Tablet
 - [ ] Check bank account balance
 - [ ] Check insurance
 - [ ] Check public transportation (issues on) route
