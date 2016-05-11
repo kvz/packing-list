@@ -47,6 +47,7 @@ For additional packing-speed, there's a section per bag
 - [ ] Party-trousers
 - [ ] Plastic bag for loundry / to sit on wet stuff
 - [ ] SLR / Camera
+- [ ] Coffee Gear
 - [ ] Speakers
 - [ ] Sunscreen
 - [ ] Swimming shorts
@@ -68,8 +69,8 @@ For additional packing-speed, there's a section per bag
 - [ ] Hairgel 100ml
 - [ ] Ibuprofen
 - [ ] Lip balm
-- [ ] Patchers / Iodine / Small scissor
-- [ ] Rennie
+- [ ] Patches / Iodine / Small scissor
+- [ ] Stomatch control / Rennie
 - [ ] Showergel 100ml
 - [ ] Swabs
 - [ ] Toothbrush & paste
@@ -87,10 +88,10 @@ For additional packing-speed, there's a section per bag
 - [ ] Check-in online, write down times & Terminal nr. Use http://seatguru.com to find the best seats for your flightnr.
 - [ ] Cleanup wallet. Check if creditcard is in there and you know it's PIN code.
 - [ ] Clip nails, so you don't have to abroad
-- [ ] Download some city "[off](http://www.offmaps.com/)-maps" if I'll have limited intertubes there
+- [ ] Download offline maps for destination (via e.g. Nokia Here or Offmaps)
 - [ ] Enable ATM access in foreign country if needed
 - [ ] Find out what's a cheap way to have internet there
-- [ ] Make a few Spotify offline playlists on the phone. Don't wanna use up all that country's bandwith.
+- [ ] Save favorite music offline. Don't wanna use up all that country's bandwith.
 - [ ] Notify neighbors that you'll be gone
 - [ ] Shave, so you don't have to abroad
 - [ ] Take care of pending (E)Mail. Set vacation responder. Make sure collegues know what's what
