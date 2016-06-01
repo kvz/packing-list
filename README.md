@@ -47,7 +47,7 @@ For additional packing-speed, there's a section per bag
 - [ ] Party-trousers
 - [ ] Plastic bag for loundry / to sit on wet stuff
 - [ ] SLR / Camera
-- [ ] Coffee Gear
+- [ ] Coffee Gear: aeropress. filters. grinder. cup. {num_days} * {num_people} * {shots_per_day:-3} * 12grams of beans
 - [ ] Speakers
 - [ ] Sunscreen
 - [ ] Swimming shorts
