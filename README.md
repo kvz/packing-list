@@ -48,6 +48,8 @@ For additional packing-speed, there's a section per bag
 - [ ] Plastic bag for loundry / to sit on wet stuff
 - [ ] SLR / Camera
 - [ ] Coffee Gear: aeropress. filters. grinder. cup. {num_days} * {num_people} * {shots_per_day:-3} * 12grams of beans
+- [ ] Power cords extension socket with USB ports + Universeral Power Adapter
+- [ ] Car power adapter USB
 - [ ] Speakers
 - [ ] Sunscreen
 - [ ] Swimming shorts
@@ -79,7 +81,7 @@ For additional packing-speed, there's a section per bag
 
 ## Before I leave
 
-- [ ] Charge additional phone battery / Kindle / Tablet
+- [ ] Charge additional phone battery / Kindle / Tablet / Camera
 - [ ] Check bank account balance
 - [ ] Check insurance
 - [ ] Check public transportation (issues on) route
