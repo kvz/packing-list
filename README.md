@@ -44,6 +44,7 @@ For additional packing-speed, there's a section per bag
 - [ ] Ducktape
 - [ ] Flipflops
 - [ ] Gloves / Hat
+- [ ] Gym outfit
 - [ ] Party-trousers
 - [ ] Plastic bag for loundry / to sit on wet stuff
 - [ ] SLR / Camera
