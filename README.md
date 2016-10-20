@@ -25,7 +25,6 @@ For additional packing-speed, there's a section per bag
 - [ ] Coins to buy {hours_flight} / 3 .5l bottles of water after security check
 - [ ] Copy of passport, alarm numbers
 - [ ] Earplugs to defend against children
-- [ ] Foreign plug adapter
 - [ ] {hours_flight} / 2 Granola bar
 - [ ] Headset
 - [ ] Laptop
@@ -39,6 +38,7 @@ For additional packing-speed, there's a section per bag
 
 ## The suitcase
 
+- [ ] Backpack
 - [ ] Beach towel
 - [ ] Belt
 - [ ] Ducktape
