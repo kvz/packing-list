@@ -66,7 +66,7 @@ For additional packing-speed, there's a section per bag
 
 ## The toiletry bag
 
-- [ ] Condoms (just for party-tricks ofc)
+- [ ] Condoms (just for doing party-tricks ofc)
 - [ ] Deodorant 100ml
 - [ ] Earplugs
 - [ ] Hairgel 100ml
@@ -89,9 +89,9 @@ For additional packing-speed, there's a section per bag
 - [ ] Check weather
 - [ ] Check time difference
 - [ ] Check-in online, write down times & Terminal nr. Use http://seatguru.com to find the best seats for your flightnr.
-- [ ] Cleanup wallet. Check if creditcard is in there and you know it's PIN code.
+- [ ] Cleanup wallet. Check if **creditcard is in there** and you know it's PIN code.
 - [ ] Clip nails, so you don't have to abroad
-- [ ] Download offline maps for destination (via e.g. Nokia Here or Offmaps)
+- [ ] Download offline maps for destination (via e.g. Nokia Here or Offmaps, Google maps now also supports offline downloads)
 - [ ] Enable ATM access in foreign country if needed
 - [ ] Find out what's a cheap way to have internet there
 - [ ] Save favorite music offline. Don't wanna use up all that country's bandwith.
@@ -105,6 +105,7 @@ For additional packing-speed, there's a section per bag
 
 - [ ] Get some foreign cash
 - [ ] Unplug chords
+- [ ] Lock all windows/doors
 - [ ] Kill temperature
 
 ## Tips
