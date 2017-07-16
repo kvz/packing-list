@@ -11,10 +11,16 @@ It list has evolved over the years and is **suited for city trips, conferences a
 I'm open sourcing this so you too can enjoy efficient packing and
 the peace of mind that comes with that : )
 
-If you miss anything, fork it.  
-If you think others will miss it too, send a pull request!
+## Tips
 
-For additional packing-speed, there's a section per bag
+- Keep a spare of all toiletry items so you can just keep that bag in your suitcase.
+- Nothing beats [printing](https://raw.github.com/kvz/packing-list/master/README.md) 
+and checking these with a pen ; )
+- Calculations are rounded up : )
+- If you miss anything, fork it.  
+- If you think others will miss it too, send a pull request!
+
+For added packing-speed, there's a section per bag
 
 ## The carry-on
 
@@ -107,13 +113,6 @@ For additional packing-speed, there's a section per bag
 - [ ] Unplug chords
 - [ ] Lock all windows/doors
 - [ ] Kill temperature
-
-## Tips
-
-- Keep a spare of all toiletry items so you can just keep that bag in your suitcase.
-- Nothing beats [printing](https://raw.github.com/kvz/packing-list/master/README.md) 
-and checking these with a pen ; )
-- Calculations are rounded up : )
 
 ## License
 
