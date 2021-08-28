@@ -46,6 +46,7 @@ For added packing-speed, there's a section per bag
 - [ ] Beach towel
 - [ ] Belt
 - [ ] Ducktape
+- [ ] Extra pair of shoes
 - [ ] Flipflops
 - [ ] Gloves
 - [ ] Hat
@@ -56,11 +57,11 @@ For added packing-speed, there's a section per bag
 - [ ] Coffee Gear: aeropress. filters. grinder. cup. {num_days} * {num_people} * {shots_per_day:-3} * 12grams of beans
 - [ ] Power cords extension socket with USB ports + Universeral Power Adapter
 - [ ] Car power adapter USB
+- [ ] Raincoat
 - [ ] Speakers
 - [ ] Sunscreen
 - [ ] Swimming shorts
 - [ ] Swiss knife with some tools
-- [ ] Umbrella
 - [ ] {num_days} * 1 Boxershorts
 - [ ] {num_days} * 1 Socks
 - [ ] {num_days} * 1 T-Shirts
